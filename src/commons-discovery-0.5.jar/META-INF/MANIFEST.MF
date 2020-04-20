@@ -1,0 +1,34 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: 1.6.0_24 (Apple Inc.)
+Built-By: simonetripodi
+Build-Jdk: 1.6.0_24
+Implementation-Title: Commons Discovery
+Implementation-Vendor: The Apache Software Foundation
+Implementation-Vendor-Id: org.apache
+Implementation-Version: 0.5
+Specification-Title: Commons Discovery
+Specification-Vendor: The Apache Software Foundation
+Specification-Version: 0.5
+X-Compile-Source-JDK: 1.5
+X-Compile-Target-JDK: 1.5
+Export-Package: org.apache.commons.discovery.resource.names;version="0
+ .5",org.apache.commons.discovery.jdk;version="0.5",org.apache.commons
+ .discovery.ant;version="0.5",org.apache.commons.discovery.tools;versi
+ on="0.5",org.apache.commons.discovery.resource.classes;version="0.5",
+ org.apache.commons.discovery.log;version="0.5",org.apache.commons.dis
+ covery.resource;version="0.5",org.apache.commons.discovery;version="0
+ .5"
+Tool: Bnd-0.0.255
+Bundle-Name: Commons Discovery
+Bundle-Vendor: The Apache Software Foundation
+Bundle-Version: 0.5
+Bnd-LastModified: 1303930849815
+Bundle-ManifestVersion: 2
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0.txt
+Bundle-Description: The Apache Commons Discovery component is about di
+ scovering, or finding,  implementations for pluggable interfaces.
+Import-Package: org.apache.commons.logging
+Bundle-SymbolicName: org.apache.commons.discovery
+Bundle-DocURL: http://commons.apache.org/discovery/
+

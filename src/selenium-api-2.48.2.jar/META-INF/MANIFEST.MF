@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Built-By: linman
+Created-By: Apache Maven 3.1.1
+Build-Jdk: 1.8.0_45
+
+Name: Build-Info
+Selenium-Build-Time: 2015-10-09 13:08:06
+Selenium-Version: 2.48.2
+Selenium-Revision: 41bccdd10cf2c0560f637404c2d96164b67d9d67
+
